@@ -18,7 +18,7 @@
   "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
-      "firstalexxx\\swagger\\": "src"
+      "light\\swagger\\": "src"
     }
   },
   "extra": {
