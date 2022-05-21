@@ -6,12 +6,9 @@
     <br>
 </p>
 
-[![version](https://img.shields.io/packagist/v/light/yii2-swagger.svg?style=flat-square)](https://packagist.org/packages/light/yii2-swagger)
-[![Download](https://img.shields.io/packagist/dt/light/yii2-swagger.svg?style=flat-square)](https://packagist.org/packages/light/yii2-swagger)
-[![Issues](https://img.shields.io/github/issues/lichunqiang/yii2-swagger.svg?style=flat-square)](https://github.com/lichunqiang/yii2-swagger/issues)
-
+<h3>Updated copy of https://github.com/lichunqiang/yii2-swagger </h3>
+<br>
 [swagger-php](https://github.com/zircote/swagger-php) integration with yii2.
-
 
 Integration [swagger-ui](https://github.com/swagger-api/swagger-ui) with [swagger-php](https://github.com/zircote/swagger-php).
 
@@ -19,22 +16,9 @@ Integration [swagger-ui](https://github.com/swagger-api/swagger-ui) with [swagge
 Installation
 ------------
 
-The preferred way to install this extension is through [composer](http://getcomposer.org/download/).
-
-Either run
-
 ```
-php composer.phar require --prefer-dist light/yii2-swagger "~3.0" --dev
+composer require firstalexxx/yii2-swagger
 ```
-
-or add
-
-```
-"light/yii2-swagger": "~3.0"
-```
-
-to the require section of your `composer.json` file.
-
 
 Usage
 -----
